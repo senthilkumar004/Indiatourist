@@ -69,7 +69,7 @@
         }
 
         .logo::before {
-            content: "🇮🇳";
+           
             font-size: 1.8rem;
             background: none;
             -webkit-background-clip: unset;
