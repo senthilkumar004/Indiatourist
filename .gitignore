@@ -1,0 +1,9 @@
+# Ignore videos
+*.mp4
+
+# Ignore uploads folder
+uploads/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
