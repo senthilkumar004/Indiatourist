@@ -1,5 +1,8 @@
+<?php include "includes/header.php"; ?>
+
+
 <?php
-session_start();
+// session_start();
 include "../db.php";
 
 if (!isset($_SESSION['user_id'])) {
@@ -209,9 +212,9 @@ if (isset($_POST['remove_wishlist_id'])) {
 
 <div class="page-header">
   <a href="index.php"  style="text-decoration:none;" >    <h1>My Wishlist</h1>  </a>
-    <p>Your favourite destinations across Incredible India – places you dream to visit</p>
+    
 </div>
-
+<br>
 <div class="wishlist-container">
 
 <?php
@@ -279,3 +282,6 @@ if (mysqli_num_rows($query) == 0) { ?>
 
 </body>
 </html>
+
+
+<?php include "includes/footer.php"; ?>
