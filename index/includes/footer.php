@@ -33,7 +33,7 @@
                 <div class="social-icons">
                     <a href="#" aria-label="Facebook"    title="Facebook"><i class="fab fa-facebook-f"></i></a>
                     <a href="#" aria-label="Instagram"   title="Instagram"><i class="fab fa-instagram"></i></a>
-                    <a href="#" aria-label="X / Twitter" title="X"><i class="fab fa-x-twitter"></i></a>
+                    <!-- <a href="#" aria-label="X / Twitter" title="X"><i class="fab fa-x-twitter"></i></a> -->
                     <a href="#" aria-label="YouTube"     title="YouTube"><i class="fab fa-youtube"></i></a>
                     <a href="#" aria-label="Pinterest"   title="Pinterest"><i class="fab fa-pinterest-p"></i></a>
                 </div>
@@ -100,9 +100,7 @@
         <div class="bottom-container">
             <div class="footer-bottom-left">
                 <div class="india-flag-strip">
-                    <span class="flag-saffron"></span>
-                    <span class="flag-white"><i class="fas fa-dharmachakra"></i></span>
-                    <span class="flag-green"></span>
+                
                 </div>
                 <p>© 2026 Explore India Tourism. Made with <i class="fas fa-heart" style="color:#c0392b;"></i> in India.</p>
             </div>
